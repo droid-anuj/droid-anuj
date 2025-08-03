@@ -30,6 +30,7 @@ CS graduate from **IIIT Kota** with hands-on experience building scalable fronte
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 ### Backend
@@ -50,6 +51,7 @@ CS graduate from **IIIT Kota** with hands-on experience building scalable fronte
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=python&logoColor=black" alt="YOLO"/>
 </p>
 
 ## 💼 Professional Experience
@@ -72,6 +74,13 @@ CS graduate from **IIIT Kota** with hands-on experience building scalable fronte
 - Improved system performance by **15%** through cross-functional collaboration
 
 ## 🚀 Featured Projects
+
+### 🖼️ [VisionPad - AI-Powered Image Annotation Tool](https://github.com/droid-anuj)
+An intuitive image annotation platform designed for ML workflows
+- Built sleek and responsive UI using **React and Tailwind CSS**
+- Integrated **YOLO-based object detection** for auto-labeling images, speeding up annotation by **40%**
+- Supports export in **COCO and YOLO formats** for seamless dataset generation
+- Streamlined ML workflow for data scientists and researchers
 
 ### 🎬 [FilmZ - Web Application](https://github.com/droid-anuj)
 - Built responsive web application using **React and Redux**
@@ -108,6 +117,7 @@ CS graduate from **IIIT Kota** with hands-on experience building scalable fronte
 - 🎯 Personal best: **150+ problems in a single month**
 - 🎓 **B.Tech in CSE** from IIIT Kota (2020-2024)
 - 📜 Completed comprehensive courses in React and Web Development
+- 🤖 Built AI-powered tools improving ML workflows by **40%**
 
 ## 🌐 Connect with Me
 
