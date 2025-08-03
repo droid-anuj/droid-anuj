@@ -75,7 +75,7 @@ CS graduate from **IIIT Kota** with hands-on experience building scalable fronte
 
 ## 🚀 Featured Projects
 
-### 🖼️ [VisionPad - AI-Powered Image Annotation Tool](https://github.com/droid-anuj)
+### 🖼️ [VisionPad - AI-Powered Image Annotation Tool](https://vision-pad-83a.vercel.app/)
 An intuitive image annotation platform designed for ML workflows
 - Built sleek and responsive UI using **React and Tailwind CSS**
 - Integrated **YOLO-based object detection** for auto-labeling images, speeding up annotation by **40%**
