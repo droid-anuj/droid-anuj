@@ -75,11 +75,12 @@ CS graduate from **IIIT Kota** with hands-on experience building scalable fronte
 
 ## 🚀 Featured Projects
 
-### 🖼️ [ VisionPad – Real-Time Collaboration Platform](https://vision-pad-83a.vercel.app/)
-Real-time collaborative whiteboard built with Next.js, Convex, Clerk, and Liveblocks.
--Developed interactive whiteboard using Next.js and React
--Integrated Liveblocks for instant multi-user collaboration and Clerk for secure authentication
--Utilized Convex for real-time data storage and synchronization across sessions
+### 🖼️ [VisionPad – Real-Time Collaboration Platform](https://vision-pad-83a.vercel.app/)  
+Real-time collaborative whiteboard built with **Next.js**, **Convex**, **Clerk**, and **Liveblocks**.  
+- Interactive whiteboard with real-time sync  
+- Secure authentication using Clerk  
+- Persistent storage with Convex  
+
 
 ### 🎬 [FilmZ - Web Application](https://github.com/droid-anuj)
 - Built responsive web application using **React and Redux**
