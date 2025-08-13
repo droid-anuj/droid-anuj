@@ -75,12 +75,11 @@ CS graduate from **IIIT Kota** with hands-on experience building scalable fronte
 
 ## 🚀 Featured Projects
 
-### 🖼️ [VisionPad - AI-Powered Image Annotation Tool](https://vision-pad-83a.vercel.app/)
-An intuitive image annotation platform designed for ML workflows
-- Built sleek and responsive UI using **React and Tailwind CSS**
-- Integrated **YOLO-based object detection** for auto-labeling images, speeding up annotation by **40%**
-- Supports export in **COCO and YOLO formats** for seamless dataset generation
-- Streamlined ML workflow for data scientists and researchers
+### 🖼️ [ VisionPad – Real-Time Collaboration Platform](https://vision-pad-83a.vercel.app/)
+Real-time collaborative whiteboard built with Next.js, Convex, Clerk, and Liveblocks.
+-Developed interactive whiteboard using Next.js and React
+-Integrated Liveblocks for instant multi-user collaboration and Clerk for secure authentication
+-Utilized Convex for real-time data storage and synchronization across sessions
 
 ### 🎬 [FilmZ - Web Application](https://github.com/droid-anuj)
 - Built responsive web application using **React and Redux**
